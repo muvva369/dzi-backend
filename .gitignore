@@ -1,0 +1,10 @@
+build
+node_modules/
+npm-debug.log
+nohup.out
+.DS_Store
+.vscode/
+spmdb
+*.map
+*.log
+.git.bfg-report/

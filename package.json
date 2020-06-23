@@ -1,0 +1,34 @@
+{
+  "name": "Infy_Insurance_app",
+  "version": "0.0.1",
+  "author": "Sonu_K_Sharma",
+  "scripts": {
+    "start": "npm run nodemon",
+    "dev": "cross-env NODE_ENV=development node ./app/server.js",
+    "nodemon": "nodemon --exec npm run dev",
+    "lint": "eslint ./api/. ./config/. ./test/.",
+    "production": "cross-env NODE_ENV=production node ./app/server.js"
+  },
+  "jest": {
+    "globals": {
+      "__DEV__": true
+    },
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.0.2",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "cross-env": "^5.1.4",
+    "nodemon": "^1.17.3"
+  }
+}

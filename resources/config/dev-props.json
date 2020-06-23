@@ -1,0 +1,7 @@
+{
+    "jwt": {
+        "secret-key": "Black-Hat-Soldier",
+        "expiry-seconds": 604800,
+        "algorithm": "HS256"
+    }
+}
