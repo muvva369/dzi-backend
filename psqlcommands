@@ -1,0 +1,33 @@
+{"contactInformation": {
+    "no": "8432",
+"appartment": "4B",
+"block": "North",
+"city": "Delhi",
+"entrance": "xyz",
+"phone": "1000",
+"pincode": "121006",
+"street": "Bakers Street",
+  },
+"deliveryInformation":{
+"appt": "13",
+"deliveryBlock": "G",
+"business": "abc",
+"deliveryCity": "Sofia",
+"contact": null,
+"deliveryEntrance": "AS",
+"deliveryFullName": "Himanshu",
+"notes": "xcv", 
+"number": "12",
+"deliveryPincode": "121006",
+"deliveryStreet": "84",
+},
+"personalInformation":{
+"birth": "01/01/1997",
+"citizen": "indian",
+"fullname": {"firstname": "abc", "lastname": "xyz", "surname": "pqr"},
+"fullnameeng": {"firstnameeng": "abc", "lastnameeng": "xyz", "surnameeng": "pqr"},
+"lnch": "1"},
+
+"vehicleOwnerInformation": {"ownerfullname": {"ownerfirstname": "abc", "ownerlastname": "xyz", "ownersurname": "pqr"},
+"ownerlnch": "1"}
+}

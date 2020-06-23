@@ -1,0 +1,439 @@
+Mon Jun 22 2020 19:23:34 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:13)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:41:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Mon Jun 22 2020 20:04:08 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:13)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:41:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Mon Jun 22 2020 20:04:24 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:13)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:41:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Mon Jun 22 2020 20:04:53 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:13)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:41:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Mon Jun 22 2020 20:56:01 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:13)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:41:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Mon Jun 22 2020 20:59:02 GMT+0530 (India Standard Time) - TypeError: psql.getPolicyDetails is not a function
+    at Object.service.getPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:49:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:49:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Mon Jun 22 2020 21:03:08 GMT+0530 (India Standard Time) - TypeError: psql.getPolicyDetails is not a function
+    at Object.service.getPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:49:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:49:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 00:39:29 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.getPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:50:35)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:49:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 00:51:44 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.getPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:50:35)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:48:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 10:53:02 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token c in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:158:10)
+    at parse (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:83:15)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:224:16)
+    at done (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:323:22)
+    at endReadableNT (_stream_readable.js:1204:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Tue Jun 23 2020 11:08:52 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token } in JSON at position 424
+    at JSON.parse (<anonymous>)
+    at parse (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:89:19)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:224:16)
+    at done (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:323:22)
+    at endReadableNT (_stream_readable.js:1204:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Tue Jun 23 2020 11:09:46 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:12)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:41:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Tue Jun 23 2020 11:13:45 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 11:33:35 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token { in JSON at position 405
+    at JSON.parse (<anonymous>)
+    at parse (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:89:19)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:224:16)
+    at done (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:323:22)
+    at endReadableNT (_stream_readable.js:1204:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Tue Jun 23 2020 11:36:21 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 12:04:13 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 12:16:35 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 12:30:04 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 12:46:00 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 13:02:27 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 13:06:16 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 13:23:14 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.getPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:50:35)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:49:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 15:40:23 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 15:51:26 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 15:52:36 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
+Tue Jun 23 2020 16:11:19 GMT+0530 (India Standard Time) - TypeError: Cannot destructure property 'contactInformation' of 'request.body' as it is undefined.
+    at Object.psql.createPolicy (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\postgresql.js:12:12)
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:17)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+Tue Jun 23 2020 16:16:34 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.addPolicyDetails (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\service.js:37:38)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\routing.js:42:13
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\body-parser\lib\types\json.js:119:7)
+    at Layer.handle [as handle_request] (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:317:13)
+    at E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Infy\mtpcalculator\accelerate-master\mtplcalculator api\node_modules\express\lib\router\index.js:174:3)
