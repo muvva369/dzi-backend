@@ -4,7 +4,7 @@ const connection=new pgpromise();
 const client={
     user:"postgres",
     host:"localhost",
-    database:"insurance",
+    database:"dzi_carInsurance",
     password:"admin",
     port:5432
 }
